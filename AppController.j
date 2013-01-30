@@ -32,10 +32,10 @@
 
 -(@action) pelle:(id) sender {
     CPLog.info("-(@action) pelle:(id) sender -> " + [sender title]);
-    if([[theButton title] isEqualToString:@"PelleOlle"]){
-        [theButton setTitle:@"Egon"];        
+    if([[theButton title] isEqualToString:@"Toggle"]){
+        [theButton setTitle:@"Button"];        
     } else {
-        [theButton setTitle:@"PelleOlle"];        
+        [theButton setTitle:@"Toggle"];        
     }
 }
 

@@ -1238,7 +1238,7 @@
 											<string key="NSFrameSize">{238, 71}</string>
 											<reference key="NSSuperview" ref="612841008"/>
 											<reference key="NSWindow"/>
-											<reference key="NSNextKeyView" ref="420420888"/>
+											<reference key="NSNextKeyView" ref="639287581"/>
 											<string key="NSReuseIdentifierKey">_NS:13</string>
 											<bool key="NSEnabled">YES</bool>
 											<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
@@ -1269,7 +1269,7 @@
 													<object class="NSTableHeaderCell" key="NSHeaderCell">
 														<int key="NSCellFlags">75497536</int>
 														<int key="NSCellFlags2">2048</int>
-														<string key="NSContents">Pelle</string>
+														<string key="NSContents">A</string>
 														<object class="NSFont" key="NSSupport" id="26">
 															<string key="NSName">LucidaGrande</string>
 															<double key="NSSize">11</double>
@@ -1320,7 +1320,7 @@
 													<object class="NSTableHeaderCell" key="NSHeaderCell">
 														<int key="NSCellFlags">75497536</int>
 														<int key="NSCellFlags2">2048</int>
-														<string key="NSContents">Olle</string>
+														<string key="NSContents">B</string>
 														<reference key="NSSupport" ref="26"/>
 														<reference key="NSBackgroundColor" ref="1022892871"/>
 														<reference key="NSTextColor" ref="289962550"/>
@@ -1421,7 +1421,7 @@
 							<string key="NSFrame">{{192, 617}, {240, 89}}</string>
 							<reference key="NSSuperview" ref="439893737"/>
 							<reference key="NSWindow"/>
-							<reference key="NSNextKeyView" ref="612841008"/>
+							<reference key="NSNextKeyView" ref="420420888"/>
 							<string key="NSReuseIdentifierKey">_NS:9</string>
 							<int key="NSsFlags">133682</int>
 							<reference key="NSVScroller" ref="639287581"/>
