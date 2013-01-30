@@ -1235,10 +1235,10 @@
 										<object class="NSTableView" id="207869699">
 											<reference key="NSNextResponder" ref="612841008"/>
 											<int key="NSvFlags">256</int>
-											<string key="NSFrameSize">{238, 76}</string>
+											<string key="NSFrameSize">{238, 71}</string>
 											<reference key="NSSuperview" ref="612841008"/>
 											<reference key="NSWindow"/>
-											<reference key="NSNextKeyView" ref="639287581"/>
+											<reference key="NSNextKeyView" ref="420420888"/>
 											<string key="NSReuseIdentifierKey">_NS:13</string>
 											<bool key="NSEnabled">YES</bool>
 											<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
@@ -1364,7 +1364,7 @@
 											<int key="NSTableViewGroupRowStyle">1</int>
 										</object>
 									</object>
-									<string key="NSFrame">{{1, 17}, {238, 76}}</string>
+									<string key="NSFrame">{{1, 17}, {238, 71}}</string>
 									<reference key="NSSuperview" ref="223646683"/>
 									<reference key="NSWindow"/>
 									<reference key="NSNextKeyView" ref="207869699"/>
@@ -1418,10 +1418,10 @@
 									<int key="NScvFlags">4</int>
 								</object>
 							</object>
-							<string key="NSFrame">{{192, 612}, {240, 94}}</string>
+							<string key="NSFrame">{{192, 617}, {240, 89}}</string>
 							<reference key="NSSuperview" ref="439893737"/>
 							<reference key="NSWindow"/>
-							<reference key="NSNextKeyView" ref="420420888"/>
+							<reference key="NSNextKeyView" ref="612841008"/>
 							<string key="NSReuseIdentifierKey">_NS:9</string>
 							<int key="NSsFlags">133682</int>
 							<reference key="NSVScroller" ref="639287581"/>
@@ -1592,7 +1592,6 @@
 							<string key="NSFrame">{{429, 12}, {5, 797}}</string>
 							<reference key="NSSuperview" ref="439893737"/>
 							<reference key="NSWindow"/>
-							<reference key="NSNextKeyView"/>
 							<string key="NSReuseIdentifierKey">_NS:9</string>
 							<string key="NSOffsets">{0, 0}</string>
 							<object class="NSTextFieldCell" key="NSTitleCell">
