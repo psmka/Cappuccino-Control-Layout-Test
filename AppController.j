@@ -30,7 +30,7 @@
     [theWindow setFullPlatformWindow:YES];
 }
 
--(@action) pelle:(id) sender {
+-(@action) Toggle:(id) sender {
     CPLog.info("-(@action) pelle:(id) sender -> " + [sender title]);
     if([[theButton title] isEqualToString:@"Toggle"]){
         [theButton setTitle:@"Button"];        
